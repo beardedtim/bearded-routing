@@ -1,0 +1,8 @@
+{
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "2.*",
+    "phpunit/phpunit": "5.5.*",
+    "phpunit/php-invoker": "*",
+    "phpunit/dbunit": ">=1.2"
+  }
+}
