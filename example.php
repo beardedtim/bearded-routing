@@ -25,7 +25,7 @@ function plugin_handle_get_user($request,$route){
 function plugin_add_routes(){
   $router = new BeardedRouter('/plugin-api');
   $router->add_route('/users','plugin_handle_users_get');
-  $router->add_route('/users','['post'=>'plugin_handle_user_post');
+  $router->add_route('/users',['post'=>'plugin_handle_user_post']);
   $router->add_route('/users/:id',['get'=>'plugin_handle_get_user']);
 }
 
