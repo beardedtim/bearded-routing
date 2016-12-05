@@ -13,6 +13,8 @@ This is made to work as a WordPress plugin but can be copy/pasted into your own 
 
 #API
 
+You can see an example usage for this at [example.php](./example.php)
+
 The two classes, `BeardedRouter` and `BeardedRoute`, offer a few methods and properties that we can use handle most instances for responding to a RESTful request. Let's look at `BeardedRoute` first:
 
 ##Route
