@@ -22,8 +22,8 @@ $ ./vendor/bin/phpunit --bootstrap ./bearded-routing.php tests/BeardedRoute.spec
 
 #Contribution
 
-A short snippet of how to contribute to this project along with any information they will need to do that.
+Many hands make for light work. Pitch in and let's build something cool?
 
 #License
 
-A short description of the type of license
+Copy/pasta of WordPress's license page.
