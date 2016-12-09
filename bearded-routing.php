@@ -9,7 +9,7 @@
  * Author URI: https://github.com/beardedtim
  * License: GPLv2 or later
  * Text Domain: bearded-routing
- * GitHub URI: beardedtim/bearded-routing.git
+ * GitHub Plugin URI: beardedtim/bearded-routing
  */
 
 /**
